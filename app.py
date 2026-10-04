@@ -272,4 +272,4 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-areas = sorted(df["Area"].dropna().unique
+areas = sorted(df["Area"].dropna().unique())
